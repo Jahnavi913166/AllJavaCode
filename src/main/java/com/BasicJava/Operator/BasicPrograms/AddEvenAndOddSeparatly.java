@@ -14,5 +14,6 @@ public class AddEvenAndOddSeparatly {
         }
         System.out.println("EvenSum:" + eSum);
         System.out.println("OddSum:" + oSum);
+         System.out.println("test");
     }
 }
